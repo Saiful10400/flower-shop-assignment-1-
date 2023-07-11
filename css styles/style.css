@@ -4,6 +4,19 @@
     font-family: 'Lato', sans-serif;
 }
 
+/* primary btn */
+
+.primary-btn{
+    color: white;
+    background-color: #E55473;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border: none;
+    border-radius: 8px;
+
+}
+
 
 /* header */
 header{
@@ -38,15 +51,7 @@ header{
     color: #27272799;
 }
 
-.primary-btn{
-    color: white;
-    background-color: #E55473;
-    font-size: 20px;
-    font-weight: 700;
-    padding: 20px 43px;
-    border: none;
-    border-radius: 8px;
-}
+
 
 /*  */
 
@@ -146,3 +151,55 @@ header{
     color: rgba(39, 39, 39, 0.80);
     margin-top: 24px;
 }
+
+
+.hot-deal{
+    padding: 100px 0;
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.05);
+
+}
+
+.hd-title{
+    text-align: center;
+    width: 50%;
+    margin-left: 395px;
+    padding-top: 130px;
+}
+
+.hd-title h1{
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    width: 75%;
+}
+
+.hd-title span{
+    color: #E55473;
+}
+
+.hd-title p{
+    width: 77%;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgba(39, 39, 39, 0.60);
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.hd-title button{
+    display: inline-block;
+    position: relative;
+    right: 102px;
+}
+
+
+.hd-img{
+    padding-right: 429px;
+}
+
+.hd-img img{
+    height: 420px;
+}
+
