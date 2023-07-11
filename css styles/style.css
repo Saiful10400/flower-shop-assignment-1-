@@ -162,6 +162,31 @@ header{
     margin-top: 24px;
 }
 
+/* folower list styles */
+
+
+
+
+.flower-list{
+    width: 80%;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .hot-deal{
     padding: 100px 0;
