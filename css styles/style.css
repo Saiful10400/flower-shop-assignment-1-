@@ -363,18 +363,22 @@ footer h5{
 }
 
 .best-sells{
-    width: 80%;
-    margin: auto;
-    padding: 80px 0;
+   
+margin: auto;
+   
+padding: 80px 0;
+   
+margin-top: 168px;
 }
 
 .best-sells>h1{
-    font-size: 42px;
+    font-size: 61px;
     line-height: 50px;
     font-weight: 400;
-    font-family: 'Oswald', sans-serif;    color: #3C3834;
-   text-align: center;
-   margin-bottom: 65px;
+    font-family: 'Oswald', sans-serif;
+    color: #3C3834;
+    text-align: center;
+    margin-bottom: 72px;
 }
 
 .best-seells-container{
@@ -417,4 +421,31 @@ footer h5{
 
 .star i{
     color: #f3587a;
+}
+
+/* instagram */
+
+.instagram{
+    text-align: center;
+
+}
+
+.instagram h1{
+color: #111010;
+font-size: 40px;
+font-weight: 800;
+width: 40%;
+margin: auto;
+margin-top: 128px;
+}
+
+.instagram p{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 40%;
+margin: auto;
+margin-top: 24px;
+margin-bottom: 48px;
 }
