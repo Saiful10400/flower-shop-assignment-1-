@@ -124,4 +124,25 @@ header{
 
 /* service section */
 
-.se
+.service{
+    width: 80%;
+    margin: 128px auto;
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 8px;
+    display: flex;
+    padding: 86px 175px;
+    gap: 100px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.service-box{
+    text-align: center;
+}
+
+.service-box h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: rgba(39, 39, 39, 0.80);
+    margin-top: 24px;
+}
