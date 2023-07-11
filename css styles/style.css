@@ -236,6 +236,7 @@ header{
     padding: 122px 250px;
     box-sizing: border-box;
     margin: 128px auto;
+    background-position: top center;
 }
 
 
@@ -255,7 +256,7 @@ header{
 
 
 form{
-    margin-top: 122px;
+    margin-top: 65px;
     display: flex;
     gap: 16px;
     justify-content: center;
@@ -270,4 +271,42 @@ form input{
     border: none;
     padding: 22px;
     border-radius: 8px;
+}
+
+/* footer section css */
+
+footer{
+    padding: 128px;
+    background-color: #111010;
+    text-align: center;
+}
+
+footer h1{
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+    margin: auto;
+    width: 33%;
+}
+
+footer h1 span{
+    color: #E55473;
+}
+
+footer p{
+    width: 35%;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+    margin: 24px auto 32px auto;
+    color: rgba(255, 255, 255, 0.90);
+}
+
+footer h5{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.40);
+    width: 33%;
+    margin: auto;
+    
 }
