@@ -335,3 +335,86 @@ footer h5{
     margin: auto;
     
 }
+
+/* at last added css */
+
+.last-title{
+
+    text-align: center;
+    margin-top: 178px;
+
+}
+
+.last-title h1{
+    font-size: 40px;
+    font-weight: 800;
+    margin: auto;
+    width: 33%;
+}
+
+.last-title p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 24px auto;
+    width: 33%;
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 48px;
+}
+
+.best-sells{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+}
+
+.best-sells>h1{
+    font-size: 42px;
+    line-height: 50px;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;    color: #3C3834;
+   text-align: center;
+   margin-bottom: 65px;
+}
+
+.best-seells-container{
+    display: flex;
+    gap: 31px;
+    justify-content: center;
+}
+
+.sells-box{
+
+    text-align: center;
+    
+   
+
+}
+
+.sells-box img{
+    width: 458px;
+    border-radius: 25% 0  25% 0;
+}
+
+.star{
+    margin-top: 15px;
+}
+
+.sells-box h3{
+    margin-top: 17px;
+    margin-bottom: 5px;
+}
+
+.sells-box h1{
+    margin-bottom: 15px;
+}
+
+.sells-box h2 span{
+    background-color: #E55473;
+    border-radius: 5px;
+    color: white;
+}
+
+.star i{
+    color: #f3587a;
+}
